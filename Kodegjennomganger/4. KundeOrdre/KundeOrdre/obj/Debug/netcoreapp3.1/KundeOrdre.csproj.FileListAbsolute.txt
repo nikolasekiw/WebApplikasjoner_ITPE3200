@@ -1,0 +1,130 @@
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/KundeOrdre.exe
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/KundeOrdre.csprojAssemblyReference.cache
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/KundeOrdre.AssemblyInfoInputs.cache
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/KundeOrdre.AssemblyInfo.cs
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/KundeOrdre.RazorTargetAssemblyInfo.cache
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/staticwebassets/KundeOrdre.StaticWebAssets.Manifest.cache
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/staticwebassets/KundeOrdre.StaticWebAssets.xml
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/KundeOrdre.csproj.CopyComplete
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/KundeOrdre.deps.json
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/KundeOrdre.runtimeconfig.json
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/KundeOrdre.runtimeconfig.dev.json
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/KundeOrdre.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/KundeOrdre.pdb
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Castle.Core.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Proxies.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/KundeOrdre.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/KundeOrdre.pdb
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/KundeOrdre.genruntimeconfig.cache
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+C:/Users/Tor/source/repos/KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/KundeOrdre.MvcApplicationPartsAssemblyInfo.cache
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/KundeOrdre.deps.json
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/KundeOrdre.runtimeconfig.json
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/KundeOrdre.runtimeconfig.dev.json
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/KundeOrdre.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/KundeOrdre.pdb
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Castle.Core.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/KundeOrdre.csprojAssemblyReference.cache
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/KundeOrdre.AssemblyInfoInputs.cache
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/KundeOrdre.AssemblyInfo.cs
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/KundeOrdre.csproj.CoreCompileInputs.cache
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/KundeOrdre.MvcApplicationPartsAssemblyInfo.cache
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/KundeOrdre.RazorTargetAssemblyInfo.cache
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/KundeOrdre.csproj.CopyComplete
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/staticwebassets/KundeOrdre.StaticWebAssets.Manifest.cache
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/staticwebassets/KundeOrdre.StaticWebAssets.xml
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/KundeOrdre.dll
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/KundeOrdre.pdb
+/Users/nikolasekiw/Prog-prosjekter/ITPE3200 4. KundeOrdre/KundeOrdre/obj/Debug/netcoreapp3.1/KundeOrdre.genruntimeconfig.cache

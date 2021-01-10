@@ -1,0 +1,23 @@
+<div>
+    <h1>Kunder</h1>
+    <button (click)='hentAlleKunder()'>Hent kunder</button>{{laster}}
+    <ul>
+        <li *ngFor='let kunde of alleKunder'>
+            {{kunde.id}} : {{kunde.fornavn}} {{kunde.etternavn}}
+            {{kunde.adresse}} {{kunde.postnummer}} {{kunde.poststed}}
+        </li>
+    </ul>
+</div>
+<!--
+    Nå skal vi se på hvordan vi kan hente data fra server og vise det i Angular på klienten.
+    Nå jeg trykker på knappen lister jeg kunder som er produsert på server. Når jeg trykker på
+    knapoen en gang til, står det "vennligst vent" i noen millisekunder, det er hvis det tar tid
+    for å kalle kontrolleren, så skriver jeg ut "vennligst vent", og når dataen kommer tilbake så
+    blanker vi ut den variabelen.
+
+    Hva gjør så denne:
+    HTML-en har en button (click)='hentAlleKunder()', også er det "laster" bakerst der. Det er variabelen laster som
+    sier "vennligst vent". Så har vi en punktliste med *ngFor, altså Angular sin foreach løkke. alleKunder er et array
+    lokalt på klienten, som man flytter dataene inn i, som kommer fra server. Så skriver vi ut alle feltene som er i kunde,
+    id, fornavn, etternavn osv. 
+-->

@@ -1,0 +1,33 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<header>
+  <nav  class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+    <div class="container">
+      <img src="assets/img/norway.png" width="60dp" height="60dp">
+      <a class="navbar-brand" style="margin-left: 10px" routerLink="/"><strong>KundeService</strong></a>
+      <button class="navbar-toggler"
+              type="button"
+              data-toggle="collapse"
+              data-target=".navbar-collapse"
+              aria-label="Toggle navigation"
+              [attr.aria-expanded]="isExpanded"
+              (click)="toggle()">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse"
+           [ngClass]="{ show: isExpanded }">
+        <ul class="navbar-nav flex-grow">
+          <li class="nav-item">
+            <a class="nav-link text-dark" routerLink="/FAQ">Ofte stilte spørsmål</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-dark" routerLink="/KundeSpm">Still spørsmål</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-dark" routerLink="/NyeSpm">Nye spørsmål</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>

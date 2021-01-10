@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{D21394E1-0CEF-4482-8F2B-91F032F8736D}|Custom">
+  <MonoDevelop.Ide.ItemProperties.KundeApp2 PreferredExecutionTarget="/Applications/MineProgrammer/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KundeApp2/Controllers/KundeController.cs">
+    <Files>
+      <File FileName="KundeApp2/Controllers/KundeController.cs" Line="29" Column="10" />
+      <File FileName="KundeApp2/DAL/KundeRepository.cs" />
+      <File FileName="KundeApp2/DAL/IKundeRepository.cs" />
+      <File FileName="KundeApp2/Startup.cs" />
+      <File FileName="KundeApp2/Logs/KundeLog-20200526.txt" />
+      <File FileName="KundeApp2/Model/Kunde.cs" />
+      <File FileName="KundeApp2/DAL/DBInit.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KundeApp2" expanded="True">
+            <Node name="KundeApp2" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="KundeController.cs" selected="True" />
+              </Node>
+              <Node name="DAL" expanded="True" />
+              <Node name="Logs" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

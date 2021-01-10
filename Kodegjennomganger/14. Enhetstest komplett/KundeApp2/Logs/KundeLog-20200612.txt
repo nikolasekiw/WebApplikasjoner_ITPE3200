@@ -1,0 +1,4 @@
+2020-06-12T15:02:39.8538500+02:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2020-06-12T15:02:39.8775070+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-06-12T15:02:39.8777470+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-06-12T15:02:39.8778050+02:00  [INF] Content root path: "/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2" (b5d60022)

@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{D21394E1-0CEF-4482-8F2B-91F032F8736D}|Default">
+  <MonoDevelop.Ide.ItemProperties.KundeApp2 PreferredExecutionTarget="/Applications/MineProgrammer/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KundeApp2Test/KundeControllerTest.cs">
+    <Files>
+      <File FileName="KundeApp2Test/KundeControllerTest.cs" Line="210" Column="177" />
+      <File FileName="KundeApp2/Controllers/KundeController.cs" Line="26" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KundeApp2" expanded="True">
+            <Node name="KundeApp2" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="KundeApp2Test" expanded="True">
+              <Node name="KundeControllerTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="KundeApp2" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

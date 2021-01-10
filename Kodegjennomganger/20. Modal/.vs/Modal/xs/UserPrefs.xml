@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{F2FCA5DF-9BD5-477A-A2FB-9F50DB151307}|Default">
+  <MonoDevelop.Ide.ItemProperties.Modal PreferredExecutionTarget="/Applications/MineProgrammer/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Modal/ClientApp/src/app/modal.ts">
+    <Files>
+      <File FileName="Modal/Modal.csproj" Line="53" Column="1" />
+      <File FileName="Modal/ClientApp/src/index.html" Line="1" Column="1" />
+      <File FileName="Modal/ClientApp/src/karma.conf.js" Line="1" Column="1" />
+      <File FileName="Modal/ClientApp/src/app/app.component.html" Line="2" Column="22" />
+      <File FileName="Modal/ClientApp/src/app/app.component.ts" Line="34" Column="2" />
+      <File FileName="Modal/ClientApp/src/app/app.module.ts" Line="23" Column="3" />
+      <File FileName="Modal/ClientApp/src/app/app.server.module.ts" Line="12" Column="1" />
+      <File FileName="Modal/ClientApp/src/app/modal.html" Line="9" Column="124" />
+      <File FileName="Modal/ClientApp/src/app/modal.ts" Line="11" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Modal" expanded="True">
+            <Node name="Modal" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="app" expanded="True">
+                    <Node name="modal.ts" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

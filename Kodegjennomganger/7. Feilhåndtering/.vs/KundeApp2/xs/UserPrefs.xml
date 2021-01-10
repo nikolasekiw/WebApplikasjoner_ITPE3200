@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{D21394E1-0CEF-4482-8F2B-91F032F8736D}|Custom">
+  <MonoDevelop.Ide.ItemProperties.KundeApp2 PreferredExecutionTarget="/Applications/Viktige programmer/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KundeApp2/wwwroot/js/lagre.js">
+    <Files>
+      <File FileName="KundeApp2/Controllers/KundeController.cs" Line="66" Column="55" />
+      <File FileName="KundeApp2/Model/Kunde.cs" />
+      <File FileName="KundeApp2/wwwroot/js/endre.js" />
+      <File FileName="KundeApp2/wwwroot/js/index.js" />
+      <File FileName="KundeApp2/wwwroot/js/lagre.js" Line="20" Column="67" />
+      <File FileName="KundeApp2/wwwroot/endre.html" />
+      <File FileName="KundeApp2/wwwroot/lagre.html" />
+      <File FileName="KundeApp2/DAL/IKundeRepository.cs" />
+      <File FileName="KundeApp2/DAL/KundeRepository.cs" />
+      <File FileName="KundeApp2/DAL/KundeContekst.cs" />
+      <File FileName="KundeApp2/DAL/DBInit.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KundeApp2" expanded="True">
+            <Node name="KundeApp2" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True">
+                  <Node name="lagre.js" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

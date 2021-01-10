@@ -1,0 +1,36 @@
+﻿label {
+    color:white;
+}
+
+.view {
+    background-image: url('lofoten.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 100%;
+}
+
+.bilde {
+    max-width: 250px;
+    padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+

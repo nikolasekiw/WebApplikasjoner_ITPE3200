@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{F2FCA5DF-9BD5-477A-A2FB-9F50DB151307}|Default">
+  <MonoDevelop.Ide.ItemProperties.Angular4 PreferredExecutionTarget="/Applications/MineProgrammer/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Angular4/ClientApp/src/app/app.component.ts">
+    <Files>
+      <File FileName="Angular4/ClientApp/src/index.html" Line="10" Column="10" />
+      <File FileName="Angular4/Angular4.csproj" Line="37" Column="5" />
+      <File FileName="Angular4/ClientApp/src/app/app.component.html" Line="10" Column="7" />
+      <File FileName="Angular4/ClientApp/src/app/app.component.ts" Line="34" Column="35" />
+      <File FileName="Angular4/ClientApp/src/app/app.module.ts" Line="22" Column="17" />
+      <File FileName="Angular4/ClientApp/src/app/app.server.module.ts" Line="1" Column="1" />
+      <File FileName="Angular4/ClientApp/src/app/kunde.ts" Line="13" Column="75" />
+      <File FileName="Angular4/Models/Kunde.cs" Line="13" Column="2" />
+      <File FileName="Angular4/KundeController/KundeController.cs" Line="17" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Angular4" expanded="True">
+            <Node name="Angular4" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="app" expanded="True">
+                    <Node name="app.component.ts" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="KundeController" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

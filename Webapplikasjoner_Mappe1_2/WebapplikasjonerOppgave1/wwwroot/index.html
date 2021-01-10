@@ -1,0 +1,149 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>NOR-WAY</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- CSS only -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <!-- JS, Popper.js, and jQuery -->
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="js/index.js"></script>
+    <script src="js/validering.js"></script>
+    <link rel="stylesheet" href="stylingIndex.css">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <div class="row">
+                <nav class="navbar navbar-expand-lg navbar-white bg-white">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                        <a class="navbar-brand" href="index.html">
+                            <img class="bilde" src="norway.jpg" alt="Nor-Way logo">
+                        </a>
+                    </div>
+                    <div class="col- col-lg-3">
+                    </div>
+                    <div class="col-6 col-sm-6 col-md-6 col-lg-6">
+                        <a href="loggInn.html" class="btn btn-outline-secondary btn-block pull-right">Logg inn som administrator</a>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <div class="view">
+        <div class="container-sm bg-dark w-15">
+            <div class="row">
+                <div class="col-md-10 mx-auto">
+                    <form>
+                        <div class="form-group row">
+                            <div class="col-sm-12 "> <br/>
+                                <h4 class="text-white">Registrer bestilling</h4>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-sm-6 ">
+                                <label for="startstasjon">Jeg skal reise fra: </label>
+                                <div id="startstasjon" class="dropdown" onchange="validerStartstasjon()"></div>
+                                <span id="feilStartstasjon" style="color: red"></span>
+                            </div>
+                            <div class="col-sm-6 ">
+                                <div id="endestasjon" class="dropdown" onchange="validerEndestasjon()"> </div>
+                                <span id="feilEndestasjon" style="color: red"></span>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-sm-6 ">
+                                <div type="text" id="dato"></div>
+                                <span id="feilDato" style="color: red"></span>
+                                <span id="ikkeTurDato" style="color: red"></span>
+                            </div>
+                            <div class="col-sm-6 ">
+                                <div id="tid" class="dropdown" onchange="validerTid()"></div>
+                                <span id="feilTid" style="color: red"></span>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-sm-6 ">
+                                <label>Fornavn</label>
+                                <input type="text" id="fornavn" class="form-control" onchange="validerFornavn(this.value)" /> <br />
+                                <span id="feilFornavn" style="color: red"></span>
+                            </div>
+                            <div class="col-sm-6 ">
+                                <label>Etternavn</label>
+                                <input type="text" id="etternavn" class="form-control" onchange="validerEtternavn(this.value)" /> <br />
+                                <span id="feilEtternavn" style="color: red"></span>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-sm-6 ">
+                                <label>Telefonnr</label>
+                                <input type="text" id="telefonnr" class="form-control" onchange="validerTelefonnummer(this.value)" /> <br />
+                                <span id="feilTelefonnummer" style="color: red"></span>
+                            </div>
+                            <div class="col-sm-6 ">
+                                <label>Epost</label>
+                                <input type="text" id="epost" class="form-control" onchange="validerEpost(this.value)" /> <br />
+                                <span id="feilEpost" style="color: red"></span>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-sm-6 ">
+                                <label>Kortnummer</label>
+                                <input type="text" id="kortnummer" class="form-control" onchange="validerKortnummer(this.value)" /> <br />
+                                <span id="feilKortnummer" style="color: red"></span>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-sm-6 ">
+                                <label>Antall barn</label>
+                                <input type="number" min="0" id="antallBarn" class="form-control" onchange="beregnOgValiderBarn()" /> <br />
+                                <inline id="barnePris"></inline>
+                                <span id="feilAntallBarn" style="color: red"></span>
+                            </div>
+                            <div class="col-sm-6 ">
+                                <label>Antall voksne</label>
+                                <input type="number" min="0" id="antallVoksne" class="form-control" onkeyup="beregnOgValiderVoksen()" /> <br />
+                                <inline id="voksenPris"></inline>
+                                <span id="feilAntallVoksne" style="color: red"></span>
+                                <div class="text-white" id="prisBarn"></div>
+                                <div class="text-white" id="prisVoksen"></div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <input type="button" class="btn btn-primary" id="reg" value="Bestill" onclick="validerOgLagBestilling()" />
+                        </div>
+                        <div id="feil" style="color: red"></div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal / Pop-up -->
+        <div id="myModal" class="modal fade" role="dialog">
+            <div class="modal-dialog ">
+
+                <!-- Modal/ Pop-up innhold-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Bestilling</h4>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <div id="innhold"></div>
+                        <div id="bekreftBestilling"></div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-danger" data-dismiss="modal" onclick="">Avbryt</button>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal" onclick="lagreBestilling()">Bekreft</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

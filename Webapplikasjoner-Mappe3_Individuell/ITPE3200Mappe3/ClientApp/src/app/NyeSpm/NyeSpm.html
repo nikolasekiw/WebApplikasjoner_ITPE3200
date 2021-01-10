@@ -1,0 +1,26 @@
+<div class="container">
+<h2>Nye spørsmål fra kunder</h2>
+<div>
+  <div class="col-md-12">
+    <div *ngIf="laster">Laster spørsmål.....</div>
+    <table class="table table-bordered table-condensed">
+      <thead>
+      <tr>
+        <th>Fornavn</th>
+        <th>Etternavn</th>
+        <th>Epost</th>
+        <th>Spørsmål</th>
+      </tr>
+      </thead>
+      <tbody *ngFor="let kundespm of alleKundeSpm">
+      <tr>
+        <td>{{kundespm.fornavn}}</td>
+        <td>{{kundespm.etternavn}}</td>
+        <td>{{kundespm.epost}}</td>
+        <td>{{kundespm.nyttSporsmal}}</td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+</div>

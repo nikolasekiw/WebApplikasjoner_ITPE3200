@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{ACB74181-4626-457D-8F75-254055E59D08}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kunde-SPA-Routing/ClientApp/src/app/liste/liste.ts">
+    <Files>
+      <File FileName="Kunde-SPA-Routing/ClientApp/src/app/liste/sletteModal.html" Line="1" Column="1" />
+      <File FileName="Kunde-SPA-Routing/ClientApp/src/app/liste/sletteModal.ts" Line="1" Column="1" />
+      <File FileName="Kunde-SPA-Routing/ClientApp/src/app/liste/liste.ts" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Kunde-SPA-Routing" expanded="True">
+            <Node name="Kunde-SPA-Routing" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="app" expanded="True">
+                    <Node name="endre" expanded="True" />
+                    <Node name="lagre" expanded="True" />
+                    <Node name="liste" expanded="True">
+                      <Node name="liste.ts" selected="True" />
+                    </Node>
+                    <Node name="meny" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="DAL" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Kunde-SPA-Routing PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

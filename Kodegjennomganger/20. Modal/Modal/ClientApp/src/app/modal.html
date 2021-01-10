@@ -1,0 +1,16 @@
+﻿<div class="modal-content">
+    <div class="modal-header">
+        <h4 class="modal-title" id="modal-basic-title">Ønsker du å slette</h4>
+    </div>
+    <div class="modal-body">
+        {{navn}} ?
+        <!-- Hvis vi vil flytte navnet ut, så ser vi her at den første knappen son blir default, altså som blir merka.
+            Også skriver jeg en angular click-event så modal.close, altså når modalen lukker, så er det lukk vi har trykket
+            på og den andre så er det slett vi har klikket på. Dette kan vi da hente i det kallende prorgrammet, altså app.component.ts-->
+    </div>
+    <div class="modal-footer">
+        <!-- den første knappen vil bli "default" dvs. kjøres når "enter" trykkes -->
+        <button type="button" class="btn btn-default" (click)="modal.close('Lukk klikk')">Lukk</button>
+        <button type="button" class="btn btn-danger" (click)="modal.close('Slett klikk')">Slett</button>
+    </div>
+</div>

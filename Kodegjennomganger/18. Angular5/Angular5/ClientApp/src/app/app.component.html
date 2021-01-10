@@ -1,0 +1,48 @@
+<div>
+    <h2>Modellbasert Skjema </h2>
+    <form [formGroup]="Skjema" (ngSubmit)="onSubmit()"> <!--Dette her er hva som skal skje når man trykker på submit knappen nede-->
+        <table>
+            <tr>
+                <td>
+                    <label>Brukernavn:</label>
+                </td>
+                <td>
+                    <input type="text" formControlName="brukernavn">
+                </td>
+                <td *ngIf="this.Skjema.controls.brukernavn.status=='INVALID'">
+                    Obligatorisk
+                    <!-- ngIf = hvis this.Skjema sin controls.brukernavn.status == INVALID,
+                        hvis det er sant, da skriver jeg ut obligatorisk-->
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label>Passord:</label>
+                </td>
+                <td>
+                    <input type="password" formControlName="passord">
+                </td>
+                <td *ngIf="this.Skjema.controls.passord.status=='INVALID'">
+                    Mellom 6 og 15 siffer
+                    <!-- Tilsvarende her. Hvis passord er invalid, skriver ut feilmelding-->
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button type="submit" [disabled]="!Skjema.valid">Register</button>
+                    <!-- Så lenge skjema ikke er valid, så er knappen disabled.-->
+                </td>
+                <td>
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
+<!--
+    Viser hvordan vi bruker forms.
+    Knappen nede må være av type submit. Det kan være input av type submit eller button av type submit.
+    Da skal onSubmit funksjonen (peker på øvest her) i Angular i ts-filen kalles. onSubmit kan hete hva
+    som helst, men ngSubmit må hete det det heter, det kallet. Formgroup indikerer at det er et skjema,
+    altså, den variabelen som vil inneholde dettte skjema i ts-filen. 
+
+-->

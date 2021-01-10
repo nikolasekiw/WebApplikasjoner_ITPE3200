@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D21394E1-0CEF-4482-8F2B-91F032F8736D}|Default">
+  <MonoDevelop.Ide.ItemProperties.KundeApp2 PreferredExecutionTarget="/Applications/MineProgrammer/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KundeAppTest/KundeAppTest.cs">
+    <Files>
+      <File FileName="KundeAppTest/KundeAppTest.cs" Line="519" Column="1" />
+      <File FileName="KundeApp2/Startup.cs" Line="18" Column="2" />
+      <File FileName="KundeApp2/Controllers/KundeController.cs" />
+      <File FileName="KundeAppTest/MockHttpSession.cs" Line="14" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KundeApp2" expanded="True">
+            <Node name="KundeApp2" expanded="True" />
+            <Node name="KundeAppTest" expanded="True">
+              <Node name="KundeAppTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

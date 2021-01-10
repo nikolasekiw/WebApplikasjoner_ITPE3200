@@ -1,0 +1,29 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<h2>Ofte stilte spørsmål</h2>
+
+<div *ngIf="laster">Laster FAQ.....</div>
+<div ngbDropdown class="d-inline-block">
+  <button class="btn btn-primary" ngbDropdownToggle>Velg kategori</button><hr>
+  <div ngbDropdownMenu aria-labelledby="dropdownBasic1" >
+    <button ngbDropdownItem (click)="hentAlleFAQ()">Alle</button>
+    <button ngbDropdownItem (click)="alleKat('Billetter')">Billetter</button>
+    <button ngbDropdownItem (click)="alleKat('TurTilbud')">Turtilbud</button>
+    <button ngbDropdownItem (click)="alleKat('Regler')">Regler</button>
+  </div>
+</div>
+
+  <ngb-accordion>
+      <ngb-panel *ngFor="let data of alleFAQ; index as j" title="{{data.sporsmal}}">
+        <ng-template ngbPanelContent>{{data.svar}}<hr>
+          <button id="opp" class="btn btn-success btn-sm" [disabled]="buttons[j]" (click)="TommelOpp(data.id); buttons[j]=true">
+            <i class="fa fa-thumbs-up"></i></button> {{data.tommelOpp}}
+          <button class="btn btn-danger btn-sm" [disabled]="buttons[j]" (click)="TommelNed(data.id); buttons[j]=true">
+            <i class="fa fa-thumbs-down"></i></button> {{data.tommelNed}}<br>
+          <div *ngIf="buttons[j]" class="text-success">Takk for din tilbakemelding!</div>
+        </ng-template>
+      </ngb-panel>
+  </ngb-accordion><br>
+
+
+
+

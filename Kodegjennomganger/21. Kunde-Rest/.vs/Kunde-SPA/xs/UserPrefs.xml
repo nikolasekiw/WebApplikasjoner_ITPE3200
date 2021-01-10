@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{ACB74181-4626-457D-8F75-254055E59D08}|Default">
+  <MonoDevelop.Ide.ItemProperties.Kunde-SPA PreferredExecutionTarget="/Applications/MineProgrammer/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kunde-SPA/ClientApp/src/app/spa.ts">
+    <Files>
+      <File FileName="Kunde-SPA/ClientApp/src/app/app.module.ts" Line="6" Column="12" />
+      <File FileName="Kunde-SPA/ClientApp/src/index.html" Line="1" Column="1" />
+      <File FileName="Kunde-SPA/ClientApp/src/app/spa.ts" Line="103" Column="24" />
+      <File FileName="Kunde-SPA/ClientApp/src/app/SPA.html" Line="1" Column="1" />
+      <File FileName="Kunde-SPA/ClientApp/src/app/Kunde.ts" Line="1" Column="1" />
+      <File FileName="Kunde-SPA/Kunde-SPA.csproj" Line="38" Column="5" />
+      <File FileName="Kunde-SPA/Model/Kunde.cs" Line="1" Column="1" />
+      <File FileName="Kunde-SPA/DAL/DBInit.cs" Line="1" Column="1" />
+      <File FileName="Kunde-SPA/DAL/IKundeRepository.cs" Line="1" Column="1" />
+      <File FileName="Kunde-SPA/DAL/KundeContekst.cs" Line="1" Column="1" />
+      <File FileName="Kunde-SPA/DAL/KundeRepository.cs" Line="1" Column="1" />
+      <File FileName="Kunde-SPA/Startup.cs" Line="1" Column="1" />
+      <File FileName="Kunde-SPA/ClientApp/src/tslint.json" Line="1" Column="1" />
+      <File FileName="Kunde-SPA/ClientApp/src/styles.css" Line="1" Column="1" />
+      <File FileName="Kunde-SPA/ClientApp/src/environments/environment.ts" Line="1" Column="1" />
+      <File FileName="Kunde-SPA/ClientApp/src/assets/.gitkeep" Line="1" Column="1" />
+      <File FileName="Kunde-SPA/ClientApp/e2e/protractor.conf.js" Line="1" Column="1" />
+      <File FileName="Kunde-SPA/ClientApp/e2e/tsconfig.e2e.json" Line="1" Column="1" />
+      <File FileName="Kunde-SPA/ClientApp/e2e/src/app.e2e-spec.ts" Line="1" Column="1" />
+      <File FileName="Kunde-SPA/ClientApp/e2e/src/app.po.ts" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Kunde-SPA" expanded="True">
+            <Node name="Kunde-SPA" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="app" expanded="True">
+                    <Node name="spa.ts" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="DAL" expanded="True" />
+              <Node name="Model" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

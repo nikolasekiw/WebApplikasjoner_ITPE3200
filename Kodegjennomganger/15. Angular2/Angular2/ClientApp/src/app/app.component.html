@@ -1,0 +1,18 @@
+<div>
+    Navnet er : {{navn}}<br/>
+    Skriv inn navnet her :<input type="text" [(ngModel)]="navn"/> 
+</div>
+
+
+<!-- Nå skal vi se på hvordan vi får lest inn data fra en input-tag og skevet ut dataene i HTMl igjen.
+    For å få ut et navn som er definert i en komponent, så er syntaksen to krølleparentese, så variabelen inn der.
+    Den skal høre til komponenten av app.component
+
+    Så lager jeg en input-boks, og den har også en spesiell fomatering. Den skal markeres med hvilken variabel
+    denne skal knyttes til i komponenten. Da bruker vi firkantparenteser og to vanlige parenteser.
+    Inni der skriver vi ngModel (Angular Model) er lik variabelnavnet. Det jeg da skriver inn i input knyttes diekte til variabelen.
+    (for at dette skal fungere må vi legge til forms-modulen som vi slettet sist, inne i app.modules.ts filen)
+
+    Vi har ikke definert noe variabel i komponenten, men vi har brukt variabelen i html-en på to stede og da behøver man
+    ikke å definere variabelen navn i komponenten. Gå nå til app.component.cs
+    -->

@@ -1,0 +1,44 @@
+<div>
+    <h1>Kontaktliste</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <td>Navn og telefonnummer</td>
+            </tr>
+        </thead>
+        <tbody class="col-md-4">
+            <tr *ngFor="let kontakt of kontakter" style="margin-bottom: 10px;">
+                <td>{{kontakt.utData}}</td>
+                <td><button class="btn btn-danger btn-xs" (click)="slettKontakt(kontakt)">Slett</button></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="col-md-6">
+        <input [(ngModel)]="navn" placeholder="navn" />
+        <input [(ngModel)]="telefon" placeholder="telefon" />
+        <button class="btn btn-primary btn-xs" (click)="leggTilKontakt()">Legg til kontakt</button>
+    </div>
+</div>
+
+<!-- Denne filen er delt i to. Føst har vi selge listen.
+    Så har vi input-boksene nederst. Først har vi denne spesielle måten å
+    aksessere navnet på, altså attributtene i denne klassen som heter navn.
+    placeholder="navn" er bare det som ligger i bakgrunnen i input-boksene.
+    Så har vi telefon. Vi knytter da de inn til variablene navn og telefon i app.component.ts filen
+
+    Så har vi en knapp. I Angular har vi (click) så erlik, så en funksjon. Vi kaller da på
+    leggTilKontakt. I app.component.ts har vi denne metoden.
+
+    Så skal vi liste disse kontaktene. Har først en header og en body.
+    Så kommer en spesiell angular funksjon: tbody. Inne i tr lager vi en for-løkke: *ngFor, det er en
+    foreach-løkke, angular sin. let kontakt of kontakter. Kontakter er da er
+    arrayet vi opprettet. Kontakt er det objekte som skal brukes inne i denne for-løkka
+    og for-løkka starter i tr og den går til tr avsluttes. Hele tr er en foeach løkke i angular.
+    Da kan vi ta en td med kontakt sin utData med attributten/variablen vi har i kontakt-objektet som
+    ligger i kontakter-arrayet. Etter det så setter vi på en slett button som kaller slett kontakt
+    med kontakten. Skriver da (click)="slettKontakt(kontakt)" for å slette den spesifikke kontakten.
+    For hver linje får vi ut navn og telefonnr og en knapp som vi har mulighet for å bruke for å slette kontakten.
+    Gå tilbake til app.component.ts for å se på slettKontakt
+    -->
+ 

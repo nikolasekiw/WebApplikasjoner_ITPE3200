@@ -1,0 +1,22 @@
+<app-nav-meny></app-nav-meny> <!-- Menyen vil komme inn her fordi den har en selector app-nav-meny i ts-filen-->
+<div class="container">
+    <router-outlet></router-outlet>
+    <!-- Det som blir rendret fortløpende i routingen, altså enten lagre eller liste, vil komme inn her.
+        Altså enten lagre.component.html eller liste.component.html, avhengig av routingen.
+        Hvis vi i nav-bar velger lagere så får vi lagre-komponenten inn i router-outlet, hvis vi velger
+        liste så får vi liste-komponenten inn i router-outlet-->
+</div>
+
+
+<!--
+    Hensikten med routing er å dele opp komponentene, slik at man kan gå til
+    forskjellige komponenter og få opp ulike komponenter avhengig av hvilken routing
+    man har valgt. En default routing er /liste (i url). Liste-komponenten kommer opp
+    først da det står en default routing i filen app-routing-modules.ts. Vi oppretter en
+    app-routing-module for å definere hvilke routinger/moduler som skal kalles når.
+    Da skriver man path..... Poenget er: hvis vi på forsiden har en liste av data og hvis
+    vi skal lagre noen nye, så kan vi velge "lagre" i nav-meny så kommer vi oss til en annen
+    komponent (lagre-kompoennt). Så kan jeg trykke på "liste" i nav-baren og da kommer jeg tilbake
+    til liste-komponenten/routingen. Jeg kan også trykke på "Routing", altså på selve
+    overskriften i nav-baren og da kommer jeg til default-komponenten. 
+-->

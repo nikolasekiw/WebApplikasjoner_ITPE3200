@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{D0313246-3E23-4323-AFBC-D7785AD5EFA2}|KundeOrdre">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KundeOrdre/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="KundeOrdre/Models/Ordre.cs" Line="13" Column="2" />
+      <File FileName="KundeOrdre/Models/Kunde.cs" Line="14" Column="91" />
+      <File FileName="KundeOrdre/wwwroot/js/index.js" />
+      <File FileName="KundeOrdre/wwwroot/index.html" />
+      <File FileName="KundeOrdre/Models/DBInit.cs" Line="1" Column="1" />
+      <File FileName="KundeOrdre/Models/DB.cs" Line="1" Column="1" />
+      <File FileName="KundeOrdre/Models/OrdreLinje.cs" Line="1" Column="1" />
+      <File FileName="KundeOrdre/Models/Vare.cs" Line="1" Column="1" />
+      <File FileName="KundeOrdre/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="KundeOrdre/Startup.cs" Line="38" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KundeOrdre" expanded="True">
+            <Node name="KundeOrdre" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.KundeOrdre PreferredExecutionTarget="/Applications/Viktige programmer/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

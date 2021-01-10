@@ -1,0 +1,16 @@
+<div class="modal-content">
+  <div class="modal-header">
+    <h4 class="modal-title" id="modal-basic-title">Send inn spørsmål</h4>
+  </div>
+  <div class="modal-body">
+    <p>
+      Navn: {{fornavn}} {{etternavn}}<br>
+      Epost: {{epost}}<br>
+      Spørsmål: {{nyttSporsmal}}<br>
+    </p>
+  </div>
+  <div class="modal-footer">
+    <button type="button" class="btn btn-default" (click)="modal.dismiss()">Avbryt</button>
+    <button type="button" class="btn btn-success" (click)="modal.close()">Send</button>
+  </div>
+</div>

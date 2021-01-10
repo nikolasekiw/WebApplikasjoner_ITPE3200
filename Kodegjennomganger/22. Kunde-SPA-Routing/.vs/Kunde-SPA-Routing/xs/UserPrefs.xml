@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{ACB74181-4626-457D-8F75-254055E59D08}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kunde-SPA-Routing/ClientApp/src/app/app.module.ts">
+    <Files>
+      <File FileName="Kunde-SPA-Routing/ClientApp/src/app/app-routing.module.ts" Line="10" Column="12" />
+      <File FileName="Kunde-SPA-Routing/ClientApp/src/app/endre/endre.ts" Line="10" Column="3" />
+      <File FileName="Kunde-SPA-Routing/ClientApp/src/app/app.module.ts" Line="22" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Kunde-SPA-Routing" expanded="True">
+            <Node name="Kunde-SPA-Routing" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Kunde-SPA-Routing PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

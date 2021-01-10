@@ -1,0 +1,46 @@
+<<<<<<< HEAD
+2020-09-23T09:19:13.9892310+02:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2020-09-23T09:19:14.0446490+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-09-23T09:19:14.0503440+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-09-23T09:19:14.1339640+02:00  [INF] Content root path: "/Users/nikolasekiw/Prog-prosjekter/WebapplikasjonerOppgave1/WebapplikasjonerOppgave1" (b5d60022)
+=======
+2020-09-23T09:20:40.1818080+02:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2020-09-23T09:20:40.1890550+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-09-23T09:20:40.1914320+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-09-23T09:20:40.1936380+02:00  [INF] Content root path: "/Users/synneangell/Projects/WebapplikasjonerOppgave1/WebapplikasjonerOppgave1" (b5d60022)
+2020-09-23T09:23:14.5034750+02:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2020-09-23T09:23:14.5123060+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-09-23T09:23:14.5146200+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-09-23T09:23:14.5168690+02:00  [INF] Content root path: "/Users/synneangell/Projects/WebapplikasjonerOppgave1/WebapplikasjonerOppgave1" (b5d60022)
+2020-09-23T09:26:38.8775900+02:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2020-09-23T09:26:38.8839400+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-09-23T09:26:38.8865300+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-09-23T09:26:38.8888270+02:00  [INF] Content root path: "/Users/synneangell/Projects/WebapplikasjonerOppgave1/WebapplikasjonerOppgave1" (b5d60022)
+>>>>>>> 5cb9fffcf48f8ca845350dcc30cd2aa664ee7ae7
+<<<<<<< HEAD
+<<<<<<< HEAD
+2020-09-23T09:55:21.6057270+02:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2020-09-23T09:55:21.6118970+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-09-23T09:55:21.6142120+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-09-23T09:55:21.6165070+02:00  [INF] Content root path: "/Users/synneangell/Projects/WebapplikasjonerOppgave1/WebapplikasjonerOppgave1" (b5d60022)
+2020-09-23T09:58:29.8328000+02:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2020-09-23T09:58:29.8389950+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-09-23T09:58:29.8413120+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-09-23T09:58:29.8436810+02:00  [INF] Content root path: "/Users/synneangell/Projects/WebapplikasjonerOppgave1/WebapplikasjonerOppgave1" (b5d60022)
+2020-09-23T19:56:00.4428360+02:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2020-09-23T19:56:00.4488450+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-09-23T19:56:00.4512950+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-09-23T19:56:00.4536020+02:00  [INF] Content root path: "/Users/synneangell/Projects/WebapplikasjonerOppgave1/WebapplikasjonerOppgave1" (b5d60022)
+=======
+2020-09-23T19:03:42.8947680+02:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2020-09-23T19:03:42.9300300+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-09-23T19:03:42.9302900+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-09-23T19:03:42.9303620+02:00  [INF] Content root path: "/Users/camillacarlsen/Documents/GitHub/WebapplikasjonerOppgave1/WebapplikasjonerOppgave1" (b5d60022)
+>>>>>>> fe1bb8a9b071494b61e46845a6f670b861d9b1be
+=======
+2020-09-23T09:51:58.9994580+02:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2020-09-23T09:51:59.0072430+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-09-23T09:51:59.0113450+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-09-23T09:51:59.0143910+02:00  [INF] Content root path: "/Users/nikolasekiw/Prog-prosjekter/WebapplikasjonerOppgave1/WebapplikasjonerOppgave1" (b5d60022)
+2020-09-23T09:52:25.1452620+02:00 0HM2VIM6EAMI7:00000012 [INF] Feil i inputvalidering (06f553d7)
+>>>>>>> 55a1451638507c9dc303c0bbf20317ee5f11e2c7

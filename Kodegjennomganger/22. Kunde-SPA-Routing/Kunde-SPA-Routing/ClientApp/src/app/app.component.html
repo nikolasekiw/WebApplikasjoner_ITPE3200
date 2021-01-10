@@ -1,0 +1,12 @@
+﻿  <app-nav-meny></app-nav-meny>
+<div class="container">
+    <router-outlet></router-outlet>
+</div>
+
+  <!-- Denne HTML-en er litt spesiell for den har app-nav-meny, det er selve meny-komponenten,
+   også har den en router-outlet og i denne komponenten så vil liste, endre og lagre vises avhengig
+   av hvilken rute/routing som er valgt.
+
+   Hvis vi ser på nav-menyen først så er det en egen komponent som ligger helt øverst (her), inne på
+   menu.ts gjør den noen toggle, expand osv, det er denne hamburgermenyen som blir vist hvis vi reduserer sidebredden.
+   -->

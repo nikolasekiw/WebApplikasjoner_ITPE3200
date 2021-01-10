@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{D21394E1-0CEF-4482-8F2B-91F032F8736D}|Custom">
+  <MonoDevelop.Ide.ItemProperties.KundeApp2 PreferredExecutionTarget="/Applications/MineProgrammer/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KundeApp2/wwwroot/js/lagre.js">
+    <Files>
+      <File FileName="KundeApp2/wwwroot/js/endre.js" Line="1" Column="1" />
+      <File FileName="KundeApp2/wwwroot/js/index.js" Line="1" Column="1" />
+      <File FileName="KundeApp2/wwwroot/js/validering.js" Line="5" Column="133" />
+      <File FileName="KundeApp2/wwwroot/js/lagre.js" Line="32" Column="39" />
+      <File FileName="KundeApp2/DAL/IKundeRepository.cs" Line="1" Column="1" />
+      <File FileName="KundeApp2/DAL/KundeRepository.cs" Line="28" Column="14" />
+      <File FileName="KundeApp2/Controllers/KundeController.cs" Line="44" Column="117" />
+      <File FileName="KundeApp2/DAL/KundeContekst.cs" Line="20" Column="14" />
+      <File FileName="KundeApp2/Model/Kunde.cs" Line="26" Column="4" />
+      <File FileName="KundeApp2/Properties/launchSettings.json" Line="26" Column="7" />
+      <File FileName="KundeApp2/Startup.cs" />
+      <File FileName="KundeApp2/DAL/DBInit.cs" Line="1" Column="1" />
+      <File FileName="KundeApp2/Logs/KundeLog-20200626.txt" />
+      <File FileName="KundeApp2/wwwroot/lagre.html" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KundeApp2" expanded="True">
+            <Node name="KundeApp2" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True" />
+              <Node name="Logs" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True">
+                  <Node name="lagre.js" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

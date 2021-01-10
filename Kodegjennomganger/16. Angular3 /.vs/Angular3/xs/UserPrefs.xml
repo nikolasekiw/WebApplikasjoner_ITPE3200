@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{F2FCA5DF-9BD5-477A-A2FB-9F50DB151307}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Angular3/ClientApp/src/app/app.module.ts">
+    <Files>
+      <File FileName="Angular3/ClientApp/src/index.html" Line="5" Column="20" />
+      <File FileName="Angular3/ClientApp/src/app/app.component.html" />
+      <File FileName="Angular3/ClientApp/src/app/app.component.ts" />
+      <File FileName="Angular3/ClientApp/src/app/app.module.ts" Line="23" Column="1" />
+      <File FileName="Angular3/ClientApp/src/app/app.server.module.ts" />
+      <File FileName="Angular3/ClientApp/src/app/kontakt.ts" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Angular3" expanded="True">
+            <Node name="Angular3" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="app" expanded="True">
+                    <Node name="app.module.ts" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Angular3 PreferredExecutionTarget="/Applications/MineProgrammer/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

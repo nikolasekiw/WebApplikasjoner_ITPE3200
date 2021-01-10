@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Administratorside</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="/js/admin.js"></script>
+    <script src="/js/loggUt.js"></script>
+    <script src="/js/validering.js"></script>
+    <link rel="stylesheet" href="stylingIndex.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="row">
+                <nav class="navbar navbar-expand-lg navbar-white bg-white">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                        <a class="navbar-brand" href="loggInn.html">
+                            <img class="bilde" src="norway.jpg" alt="Nor-Way logo">
+                        </a>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-16">
+                <br />
+                <!--Knapp for å registrere nye turer. Blir sendt til egen side kalt feks registrere-->
+                <a href="opprettTur.html" class="btn btn-primary">Registrer ny tur</a>
+                <!--Knapp for å logge ut av admin-siden-->
+                <button class="btn btn-danger" onclick="loggUt()">Logg ut</button>
+                <br />
+                <div id="feil" style="color: red"></div>
+                <br />
+                <h3>Alle turene:</h3>
+                <div id="endreTurene" class="table-responsive"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

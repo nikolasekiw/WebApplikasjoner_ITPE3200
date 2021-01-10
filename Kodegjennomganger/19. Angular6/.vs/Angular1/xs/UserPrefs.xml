@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{F2FCA5DF-9BD5-477A-A2FB-9F50DB151307}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Angular1/ClientApp/src/app/app-routing.module.ts">
+    <Files>
+      <File FileName="Angular1/ClientApp/src/app/app-routing.module.ts" Line="9" Column="52" />
+      <File FileName="Angular1/ClientApp/src/app/nav-meny/nav-meny.component.ts" Line="1" Column="1" />
+      <File FileName="Angular1/ClientApp/src/app/nav-meny/nav-meny.component.html" Line="4" Column="59" />
+      <File FileName="Angular1/ClientApp/src/app/lagre/lagre.component.ts" Line="4" Column="27" />
+      <File FileName="Angular1/ClientApp/src/app/lagre/lagre.component.html" Line="4" Column="29" />
+      <File FileName="Angular1/ClientApp/src/app/liste/liste.component.ts" Line="9" Column="2" />
+      <File FileName="Angular1/ClientApp/src/app/liste/liste.component.html" Line="2" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Angular1" expanded="True">
+            <Node name="Angular1" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="app" expanded="True">
+                    <Node name="lagre" expanded="True" />
+                    <Node name="liste" expanded="True" />
+                    <Node name="nav-meny" expanded="True" />
+                    <Node name="app-routing.module.ts" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Angular1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
